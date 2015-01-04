@@ -1,8 +1,9 @@
 {
 	"name": "d_rss",
-	"description": "A minimal D application.",
-	"copyright": "Copyright © 2015, root",
-	"authors": ["root"],
+	"description": "d_rss: D Programming Language bindings for libmRSS: RSS parser/creator",
+	"copyright": "Andrea Marchesini, Laeeth Isharc",
+	"authors": ["Andrew Marchesini","Laeeth Isharc"],
+	license: "LGPL 2.1",
 	"dependencies": {
 	}
 }
