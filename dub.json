@@ -3,7 +3,7 @@
 	"description": "d_rss: D Programming Language bindings for libmRSS: RSS parser/creator",
 	"copyright": "Andrea Marchesini, Laeeth Isharc",
 	"authors": ["Andrew Marchesini","Laeeth Isharc"],
-	license: "LGPL 2.1",
+	"license": "LGPL 2.1",
 	"dependencies": {
 	}
 }

@@ -1,3 +1,4 @@
+*.a
 d_parser
 *.o
 new
