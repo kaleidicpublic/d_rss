@@ -2,6 +2,6 @@ name "sample_rss"
 description "sample rss parser"
 copyright "Copyright © 2015, laeeth"
 authors "laeeth"
-dependencies "d_rss" "~master"
+dependencies "d_rss" version="~master"
 libs "mrss"
 

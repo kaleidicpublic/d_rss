@@ -1,5 +1,5 @@
 import std.stdio;
-import mrss;
+import d_rss.mrss;
 import std.string;
 import std.range;
 import std.array;

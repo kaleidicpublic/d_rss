@@ -1,3 +1,4 @@
+module d_rss.mrss;
 import std.c.time;
 
 /* mRss - Copyright (C) 2005-2007 bakunin - Andrea Marchesini 
