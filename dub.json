@@ -5,5 +5,7 @@
 	"authors": ["Andrew Marchesini","Laeeth Isharc"],
 	"license": "LGPL 2.1",
 	"dependencies": {
-	}
+	},
+	"libs": ["libmrss","libnxml"],
+	"targetType": "sourceLibrary",
 }
