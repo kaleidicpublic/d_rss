@@ -3,5 +3,7 @@ description "sample rss parser"
 copyright "Copyright © 2015, laeeth"
 authors "laeeth"
 dependencies "d_rss" version="~master"
+sourceFiles "source/d_parser.d" "../source/mrss.d"
 libs "mrss"
+targetType "executable"
 
