@@ -1,5 +1,5 @@
 module d_rss.mrss;
-import std.c.time;
+import core.stdc.time;
 
 /* mRss - Copyright (C) 2005-2007 bakunin - Andrea Marchesini 
  *                                    <bakunin@autistici.org>
